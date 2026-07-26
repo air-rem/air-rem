@@ -28,7 +28,7 @@
 
 ## 🦁 Leonis AI · 一个端点，抵达所有模型
 
-[![Leonis AI](https://img.shields.io/badge/Leonis_AI-一个端点抵达所有模型-EFA22B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxLjUgMjIuNSAxMiAxMiAyMi41IDEuNSAxMlptMCA1LjNMNi44IDEyIDEyIDE3LjIgMTcuMiAxMloiLz48L3N2Zz4%3D&logoColor=white)](https://ai.svtun.cn)
+[![Leonis AI](https://img.shields.io/badge/Leonis_AI-一个端点抵达所有模型-EFA22B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxLjUgMjIuNSAxMiAxMiAyMi41IDEuNSAxMlptMCA1LjNMNi44IDEyIDEyIDE3LjIgMTcuMiAxMloiLz48L3N2Zz4%3D&logoColor=white)](https://i.rtxk.us/i/r37kbkg)
 [![接入教程](https://img.shields.io/badge/cc--switch-接入教程-9C5606?style=for-the-badge&logo=readthedocs&logoColor=white)](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)
 
 ![支持模型](https://img.shields.io/badge/Claude%20·%20GPT%20·%20Gemini%20·%20Grok-6%2B%20模型-F7B441?style=flat-square)
@@ -57,14 +57,14 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的密钥
 claude
 ```
 
-> Base URL：Claude Code 用 `https://ai.svtun.cn`（结尾不带斜杠、不带 `/v1`）；OpenAI 兼容客户端用 `https://ai.svtun.cn/v1`。
+> Base URL 填上面这个端点即可：Claude Code 用法是**结尾不带斜杠、不带 `/v1`**；OpenAI 兼容客户端则在同一端点后面加 `/v1`。
 > 也支持 **cc-switch** 桌面工具「导入到 CCS」一键导入供应商配置。
 
 邮箱注册，几十秒完成，**注册即送体验额度**。
 
 <div align="center">
 
-**[🦁 Leonis AI · 免费注册领体验额度 →](https://ai.svtun.cn)** · **[📖 cc-switch 接入教程 →](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)**
+**[🦁 Leonis AI · 免费注册领体验额度 →](https://i.rtxk.us/i/r37kbkg)** · **[📖 cc-switch 接入教程 →](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)**
 
 <sub>机场解决「连得上」，Leonis AI 解决「用得顺」—— 两件事互补，不是替代。</sub>
 
@@ -98,7 +98,7 @@ claude
 | 🧭 怎么选 · 评测方法论（本仓库） | **[air-rem/air-rem.github.io](https://github.com/air-rem/air-rem.github.io)** |
 | 📝 花渡攻略博客（教程避坑） | **<https://guide.rtxk.us/>** |
 | 🤖 AI 订阅指南（成品号） | **<https://555735.xyz/>** |
-| 🦁 Leonis AI 中转站（一个端点抵达所有模型） | **<https://ai.svtun.cn>** |
+| 🦁 Leonis AI 中转站（一个端点抵达所有模型） | **[Leonis AI · 免费注册领体验额度 →](https://i.rtxk.us/i/r37kbkg)** |
 | 📖 Leonis AI · cc-switch 接入教程 | **[guide.rtxk.us/tutorial/ai-coding](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)** |
 
 ## 💡 适合你，如果……
