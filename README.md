@@ -57,7 +57,8 @@ export ANTHROPIC_AUTH_TOKEN=sk-你的密钥
 claude
 ```
 
-> Base URL 填上面这个端点即可：Claude Code 用法是**结尾不带斜杠、不带 `/v1`**；OpenAI 兼容客户端则在同一端点后面加 `/v1`。
+> Base URL 配置值（复制粘贴用，不是跳转链接）：Claude Code 填 `https://ai.svtun.cn`，**结尾不带斜杠、不带 `/v1`**；
+> Cherry Studio / NextChat 等 OpenAI 兼容客户端填 `https://ai.svtun.cn/v1`。
 > 也支持 **cc-switch** 桌面工具「导入到 CCS」一键导入供应商配置。
 
 邮箱注册，几十秒完成，**注册即送体验额度**。
