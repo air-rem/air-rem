@@ -24,6 +24,54 @@
 
 ---
 
+<div align="center">
+
+## 🦁 Leonis AI · 一个端点，抵达所有模型
+
+[![Leonis AI](https://img.shields.io/badge/Leonis_AI-一个端点抵达所有模型-EFA22B?style=for-the-badge&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xMiAxLjUgMjIuNSAxMiAxMiAyMi41IDEuNSAxMlptMCA1LjNMNi44IDEyIDEyIDE3LjIgMTcuMiAxMloiLz48L3N2Zz4%3D&logoColor=white)](https://ai.svtun.cn)
+[![接入教程](https://img.shields.io/badge/cc--switch-接入教程-9C5606?style=for-the-badge&logo=readthedocs&logoColor=white)](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)
+
+![支持模型](https://img.shields.io/badge/Claude%20·%20GPT%20·%20Gemini%20·%20Grok-6%2B%20模型-F7B441?style=flat-square)
+![原生直连](https://img.shields.io/badge/Claude%20Code%20·%20Codex%20CLI-原生工具直连-EFA22B?style=flat-square)
+![一个密钥](https://img.shields.io/badge/一把%20sk--%20密钥-全模型通用-9C5606?style=flat-square)
+
+</div>
+
+> **机场负责连上，AI 负责干活。**
+> 节点买好了，Claude Code、Codex、Cherry Studio 之间却还在反复改环境变量、换 Base URL、粘不同的密钥？
+> **Leonis AI** 把各家大模型的订阅额度，统一成同一个 API 端点 —— **不改代码、不换客户端，只替换一行 Base URL**。
+
+| | 卖点 | 说明 |
+|:---:|---|---|
+| 🔌 | **原生工具直连** | 官方 CLI 直接用，不需要额外插件或魔改 |
+| 🌊 | **全程流式不缓冲** | 长回答边生成边吐字，不会卡到最后一次性蹦出来 |
+| ♻️ | **多账号池调度** | 后端多号轮询，单号被限流时自动顶上，稳定性更好 |
+| 🔑 | **一个密钥全模型** | Claude、GPT、Gemini 共用一把 `sk-` 密钥，省心 |
+
+支持 **Claude、GPT、Gemini、Grok、Antigravity 等 6+ 模型**；客户端覆盖 **Claude Code / Codex CLI / Cherry Studio / NextChat / OpenAI SDK**。
+接入就是三行：
+
+```bash
+export ANTHROPIC_BASE_URL=https://ai.svtun.cn
+export ANTHROPIC_AUTH_TOKEN=sk-你的密钥
+claude
+```
+
+> Base URL：Claude Code 用 `https://ai.svtun.cn`（结尾不带斜杠、不带 `/v1`）；OpenAI 兼容客户端用 `https://ai.svtun.cn/v1`。
+> 也支持 **cc-switch** 桌面工具「导入到 CCS」一键导入供应商配置。
+
+邮箱注册，几十秒完成，**注册即送体验额度**。
+
+<div align="center">
+
+**[🦁 Leonis AI · 免费注册领体验额度 →](https://ai.svtun.cn)** · **[📖 cc-switch 接入教程 →](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)**
+
+<sub>机场解决「连得上」，Leonis AI 解决「用得顺」—— 两件事互补，不是替代。</sub>
+
+</div>
+
+---
+
 > **AIRREM 领航** 是一个**第三方机场评测与选购导航**平台。我们不做又一份「返佣排序榜单」，而是把**判断一家机场值不值、怎么识别假专线与虚标带宽、怎么按场景选**的方法开源出来 —— 让你在 38 家科学上网机场里**自己做决定**。
 
 ## 🧭 我们做什么
@@ -50,6 +98,8 @@
 | 🧭 怎么选 · 评测方法论（本仓库） | **[air-rem/air-rem.github.io](https://github.com/air-rem/air-rem.github.io)** |
 | 📝 花渡攻略博客（教程避坑） | **<https://guide.rtxk.us/>** |
 | 🤖 AI 订阅指南（成品号） | **<https://555735.xyz/>** |
+| 🦁 Leonis AI 中转站（一个端点抵达所有模型） | **<https://ai.svtun.cn>** |
+| 📖 Leonis AI · cc-switch 接入教程 | **[guide.rtxk.us/tutorial/ai-coding](https://guide.rtxk.us/tutorial/ai-coding/leonis-ai-cc-switch-guide.html)** |
 
 ## 💡 适合你，如果……
 
